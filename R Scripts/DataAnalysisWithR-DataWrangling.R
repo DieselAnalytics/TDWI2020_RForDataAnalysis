@@ -8,7 +8,7 @@ library(repr)
 # R Subsetting columns
 
 # Acquire the necessary data that will be used in the examples
-population_data <- read_csv("population_rawdata.csv")
+population_data <- read_csv("../Datasets/population_rawdata.csv")
 
 
 # Subsetting columns:  picking the County, State, and all columns
