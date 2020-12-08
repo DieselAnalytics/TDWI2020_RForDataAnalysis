@@ -2,11 +2,11 @@
 
 This repo contains the information covered in the ***R for Data Analysis*** workshop. The Jupyter Notebooks used in the workshop are listed below complete with descriptions:
 
-- **DataAnalysisWitthR-Setup.ipynb**:  Jupyter Notebook that contains the information covered in the ***Setup*** module.  
-- **DataAnalysisWithR-DataViz.ipynb**:  Jupyter Notebook that contains the information covered in the ***Data Visualization*** module.  
-- **DataAnalysisWithR-AtomicVectors.ipynb**:  Jupyter Notebook that contains the information covered in the ***Atomic Vectors*** module.  
-- **DataAnalysisWithR-DataWrangling.ipynb**:  Jupyter Notebook that contains the information covered in the ***Data Wrangling*** module.  
-- **DataAnalysisWithR-MachineLearning.ipynb**:  Jupyter Notebook that contains the information covered in the ***Machine Learning*** module.  
+- **DataAnalysisWitthR-Setup.ipynb**:  contains the information covered in the ***Setup*** module.  
+- **DataAnalysisWithR-DataViz.ipynb**:  contains the information covered in the ***Data Visualization*** module.  
+- **DataAnalysisWithR-AtomicVectors.ipynb**:  contains the information covered in the ***Atomic Vectors*** module.  
+- **DataAnalysisWithR-DataWrangling.ipynb**:  contains the information covered in the ***Data Wrangling*** module.  
+- **DataAnalysisWithR-MachineLearning.ipynb**:  contains the information covered in the ***Machine Learning*** module.  
 
 These notebooks can be found in the *Jupyter Notebooks* folder.
 
